@@ -1,3 +1,6 @@
+from keyword import softkwlist
+
+
 change src main
 
 7th change
@@ -5,3 +8,4 @@ change src main
 rel_1.0-feature
 changes in master
 rel-1.0 chnage after master
+soft
